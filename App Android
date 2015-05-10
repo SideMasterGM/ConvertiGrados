@@ -1,0 +1,6 @@
+# ConvertiGrados
+Aplicación Android de selección multiple para convertir de Celcius a Farenheit y viceversa.
+
+Esta aplicación android está creada sobre el IDE Android Studio, lo cuál si usas Eclipse, Netbeans u otro IDE necesitarás tener en cuenta que el importado no es el mismo, al igual que puede dar otros resultados.
+
+Está es una aplicación android de selección multiple que convierte de grados Celcius a Farenheit y viceversa. En este mismo proyecto se encuentra el .apk .
